@@ -1,1 +1,1 @@
-# Gen-AI-With-Deep-Seek-R1
+# Gen-AI-ChatBoat-DS-R1
